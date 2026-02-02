@@ -4,3 +4,4 @@ This respository contains a collection of Python projects I built to improve my 
 ## Projects included
 
 ### 1. Minimalist Banking System 
+### 2. University GPA tracker
